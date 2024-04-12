@@ -3,7 +3,7 @@
 🤔 Why did I become a developer ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akswlakswl1&show_icons=true&theme=radical)
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ctw00377@naver.com)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tw1109)](https://solved.ac/tw1109)<br/>
 
 # 💪Skills
 ### Platforms & Languages
