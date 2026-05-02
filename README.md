@@ -20,8 +20,8 @@ Currently: **documenting my learning journey** in public 🇨🇦
 ## 🧭 Experience
 
 - 🎮 **2020–2023** Unity Developer @ Widebrain — AR apps, Unity Best Immersive Award 2023
-- 🎮 **2024–now** Unity Developer @ Coarsoft — Mobile & WebGL
-- 🇨🇦 **Aug 2025** Moving to Canada — seeking front-end roles
+- 🎮 **2024–2025** Unity Developer @ Coarsoft — Mobile & WebGL
+- 🇨🇦 **Aug 2026** Moving to Canada — seeking front-end roles
 
 ---
 
