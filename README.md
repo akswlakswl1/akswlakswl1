@@ -37,5 +37,4 @@ Currently: **documenting my learning journey** in public 🇨🇦
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/icd_everything/)](https://blog.naver.com/icd_everything/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akswlakswl1@gmail.com)](mailto:akswlakswl1@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ctw00377@naver.com)](mailto:ctw00377@naver.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongmin-kim-479a01255/)](https://www.linkedin.com/in/kyeongmin-kim-479a01255/)
